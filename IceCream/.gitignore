@@ -1,4 +1,4 @@
 Library/
 obj/
-#*.csproj
-#*.sln
+*.csproj
+*.sln
